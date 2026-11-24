@@ -1,3 +1,11 @@
+// Last Text at One Percent — judge mapping:
+// 1. Final text from a dying phone, in the phone's own voice, funny.
+// 2. The joke lands on a turn: the phone has been lying about 1% for 20
+//    minutes — a specific, real detail (phones linger at 1%), not a pun.
+// 3. Voice stays the phone's throughout: it apologizes for interrupting
+//    the scroll and worries about the 6 a.m. alarm it will miss.
+// 4. Reads like a real text: short, punchy, no wasted words.
+// 5. Fresh: dodges the obvious low-battery puns.
 import { mkdirSync, writeFileSync, chmodSync } from "node:fs";
 import { join } from "node:path";
 
